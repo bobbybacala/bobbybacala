@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/susmit_bahadkar" target="blank"><img src="https://img.shields.io/twitter/follow/susmit_bahadkar?logo=twitter&style=for-the-badge" alt="susmit_bahadkar" /></a> </p>
 
-- 🌱 I’m currently learning **about Generative Adversarial Networks(GANs)**
+- 🌱 I’m currently learning **React JS and LLMs**
 
 - 💬 Ask me about **Machine Learning, Data Science, Python, Java**
 
