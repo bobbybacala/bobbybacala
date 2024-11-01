@@ -1,12 +1,6 @@
 <h1 align="center">Hi 🫡, I'm Susmit Bahadkar</h1>
 <h3 align="center">A passionate Machine Learning and Web Development Student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bobbybacala&label=Profile%20views&color=0e75b6&style=flat" alt="bobbybacala" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobbybacala" alt="bobbybacala" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/susmit_bahadkar" target="blank"><img src="https://img.shields.io/twitter/follow/susmit_bahadkar?logo=twitter&style=for-the-badge" alt="susmit_bahadkar" /></a> </p>
-
 - 🌱 I’m currently learning **React JS and LLMs**
 
 - 💬 Ask me about **Machine Learning, Data Science, Python, Java**
