@@ -1,9 +1,7 @@
 <h1 align="center">Hi 🫡, I'm Susmit Bahadkar</h1>
-<h3 align="center">A passionate Machine Learning and Web Development Student from India</h3>
+<h3 align="center">A Software Engineering Student from India</h3>
 
-- 🌱 I’m currently learning **React JS and LLMs**
-
-- 💬 Ask me about **Machine Learning, Data Science, Python, Java**
+- 🌱 I’m currently work in **React JS, Node JS, FastAPI**
 
 - 📫 How to reach me **bahadkarsusmit@gmail.com**
 
