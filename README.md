@@ -3,7 +3,7 @@
 
 - 💪 I’m currently work in **React JS, Node JS, FastAPI**
   
-- 💘 Like studying about **Data Structures and Algorithms**
+- 💘 Like studying about **Data Structures, Algorithms** and **Data Science, SQL**
 
 - 📫 How to reach me **bahadkarsusmit@gmail.com**
 
