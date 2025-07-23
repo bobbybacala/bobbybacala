@@ -2,6 +2,8 @@
 <h3 align="center">A Software Engineering Student from India</h3>
   
 - 🌱 Currently studying about **Data Structures, Algorithms** and **Data Engineering, SQL**
+  
+- 🧪 I have experience in **React, Nodejs, FastAPI, PostgreSQL, MongoDB**
 
 - 📫 How to reach me **bahadkarsusmit@gmail.com**
 
