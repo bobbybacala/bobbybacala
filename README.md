@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🫡, I'm Susmit Bahadkar</h1>
 <h3 align="center">A Software Engineering Student from India</h3>
   
-- 💘 Like studying about **Data Structures, Algorithms** and **Data Science, SQL**
+- 🌱 Currently studying about **Data Structures, Algorithms** and **Data Engineering, SQL**
 
 - 📫 How to reach me **bahadkarsusmit@gmail.com**
 
