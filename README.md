@@ -1,13 +1,9 @@
 <h1 align="center">Hi 🫡, I'm Susmit Bahadkar</h1>
 <h3 align="center">A Software Engineering Student from India</h3>
-
-- 💪 I’m currently work in **React JS, Node JS, FastAPI**
   
 - 💘 Like studying about **Data Structures, Algorithms** and **Data Science, SQL**
 
 - 📫 How to reach me **bahadkarsusmit@gmail.com**
-
-- ⚡ Fun fact **I am a Decent Football and FIFA Player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
